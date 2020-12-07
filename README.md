@@ -10,3 +10,10 @@ External Assets used:
     Terrain tools sample - Unity asset store
     dog_knight - unity asset store 
     Dialogue System for Unity - unity asset store
+
+How to play the game:
+    he player moves with W,A,S,D and to attack enemies the player has to use J in its proximity.
+    The red backpack refills a portion of players health when clicked and the blue back pack refills
+    the player energy meter. Holding left shift and running, increases player speed.Pressing E
+    allows interacting with chests. Scenes arrangement Mainmenu1>start>world>scene2>end
+    You can also exit the game with ESC when playing
